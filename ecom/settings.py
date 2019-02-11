@@ -116,6 +116,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
-STATIC_URL = '/blog/static/'
+STATIC_URL = '/static/'
+STATIC_ROOT = "/var/www/blog/static/"
 
 MESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'

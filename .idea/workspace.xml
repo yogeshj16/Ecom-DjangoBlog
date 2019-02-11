@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="461f353d-5a7d-4aaf-9c06-8d3dd7e85bb6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ecom/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecom/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/ecom/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="467">
-              <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+              <caret line="121" column="42" selection-start-line="121" selection-start-column="42" selection-end-line="121" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -279,7 +278,7 @@
     <entry file="file://$PROJECT_DIR$/ecom/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
-          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+          <caret line="121" column="42" selection-start-line="121" selection-start-column="42" selection-end-line="121" selection-end-column="42" />
         </state>
       </provider>
     </entry>
